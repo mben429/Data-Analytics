@@ -1,5 +1,5 @@
 # Lichess-Data-Analysis
-Data Analysis on the Lichess Dataset retrieved from Kaggle
+Data Analysis on the Lichess Dataset retrieved from Kaggle using Python (Jupyter notebook)
 
 I am a Chess Enthusiast who is also in my final year of a Computer Science Degree at The University of Auckland, New Zealand
 
@@ -23,6 +23,12 @@ Method:
 	
 - More to come!
 
+Details on the Dataset:
+
+- 20,000 ish games
+- Attained through Lichess API, which allows access to all games from any user (as long as you have the username)
+- To get usernames, the "Mitchell J" (on Kaggle) just found different "team" names, which allowed for easier extraction of a 
+decent number of usernames
 
 Features/Attributes:
 Game ID;
