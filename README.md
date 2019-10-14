@@ -4,3 +4,4 @@ Contents:
 
 - Lichess Data Analysis using Python
 - SuperstoreUS Business Intellgence Analysis using Power BI
+- DataStream Mining with Python
