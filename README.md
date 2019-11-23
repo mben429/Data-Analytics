@@ -1,6 +1,6 @@
 # Data Analysis Portfolio - Michael Bennett
 
-Intro: I am a Fresh Graduate Data Analyst who has a passion for useful analysis
+Intro: I am a Fresh Computer Science Graduate who loves getting his hands some Data!
 
 Contents:
 
