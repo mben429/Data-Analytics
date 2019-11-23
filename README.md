@@ -1,5 +1,7 @@
 # Data Analysis Portfolio - Michael Bennett
 
+Intro: I am a Fresh Graduate Data Analyst who has a passion for useful analysis
+
 Contents:
 
 - Lichess Data Analysis using Python
