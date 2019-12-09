@@ -8,7 +8,6 @@ Contents:
 
 - Lichess Data Analysis using Python
 - SuperstoreUS Business Intellgence Analysis using Power BI
-- DataStream Mining with Python
 - Clustering Techniques with Python to predict Forged/Genuine Banknotes, Kaggle submission 84%
   - Explored the implementation of PCA with KMeans
   - DBscan implementation as well, ongoing
