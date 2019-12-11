@@ -13,6 +13,9 @@ Contents:
   - DBscan implementation as well, ongoing
   - Will soon implement Aggloremative clustering model
   - Will look to explore and get familiar with many clustering models
+- AirBnb Pricing Analysis
+  - Exploring NYC Airbnb Pricing
+  - Compared 4 Different Boroughs of New York
 - SportsxData Facebook page (Have a visit!) 
   - Contains python scripts to produce plots
   - Some webscraping as well
