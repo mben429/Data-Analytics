@@ -24,3 +24,9 @@ Contents:
 - SportsxData Facebook page (Have a visit!) 
   - Contains python scripts to produce plots
   - Some webscraping as well
+
+- Deep Space Exo-Planet Exploration Analysis
+  - Contains analysis of NASA Keplar Campaign 3 data showing light intensities of thousands of Stars in deep space
+  - Goal is to classify each Star in the dataset into 2 categories
+    - Exo-planet is in orbit of the Star
+    - No exo-planet is in orbit of the Star
