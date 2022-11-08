@@ -2,7 +2,7 @@
 
 Intro: 
 
-I am a Fresh Computer Science Graduate who loves getting his hands some Data!
+I am a professional Data Analyst with an end goal to make it into Data Science! I love exploring interesting datasets!
 
 Contents:
 
